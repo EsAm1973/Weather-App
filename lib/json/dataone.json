@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 31.502,
+        "lat": 30.5877
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 289.71,
+        "feels_like": 289.51,
+        "temp_min": 289.71,
+        "temp_max": 289.71,
+        "pressure": 1016,
+        "humidity": 80,
+        "sea_level": 1016,
+        "grnd_level": 1015
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.75,
+        "deg": 41,
+        "gust": 3.23
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1713217364,
+    "sys": {
+        "country": "EG",
+        "sunrise": 1713151568,
+        "sunset": 1713198081
+    },
+    "timezone": 7200,
+    "id": 359493,
+    "name": "Zagazig",
+    "cod": 200
+}
