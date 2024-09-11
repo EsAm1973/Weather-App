@@ -1,16 +1,21 @@
-# weather_app
+# Weather Application
 
-A new Flutter project.
+This application displays the temperatures, cloud status, and wind conditions for a specific city. Additionally, it provides a weather forecast for the next five days.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Current Weather**: View the current temperature, cloud status, and wind conditions for a selected city.
+- **Five-Day Forecast**: Get a detailed weather forecast for the next five days, including temperature trends and weather conditions.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Run the Application**: Execute the application using the command specified in your setup instructions.
+2. **Input City Name**: Enter the name of the city you want to get the weather information for.
+3. **View Data**: The application will display the current weather conditions as well as the five-day forecast.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API Documentation
+
+This application uses the [OpenWeatherAPI](https://openweathermap.org/api) to fetch weather data. For detailed information about the API endpoints and how to use them, refer to the OpenWeatherAPI documentation.
+
+
+
